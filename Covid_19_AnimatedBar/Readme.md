@@ -5,4 +5,4 @@ Libraries included:
 
 Data source: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
-![alt text](Covid_19_AnimatedBar/newplot.png)
+![alt text](https://github.com/rakkaalhazimi/DataScience/raw/master/Covid_19_AnimatedBar/newplot.png)

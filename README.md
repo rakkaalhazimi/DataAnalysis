@@ -1,2 +1,3 @@
-# DataScience
-All projects related to Data Science in Python
+# Data Anaylysis
+
+All projects related to Data Analysis in Python
